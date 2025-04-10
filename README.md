@@ -1,5 +1,3 @@
-# 1cak Revision Website
+# 1cak Website - Frontend Revision (Version 2)
 
-https://github.com/kalista-kal/kalista-kal.github.io-index.html/deployments/github-pages
-
-Welcome to the **1cak Revision Website**, a modern reimagination of the legendary Indonesian meme-sharing platform. This project aims to bring fresh design, performance improvements, and new features while preserving the fun spirit of the original 1cak.
+This is the **second and latest frontend revision** of the 1cak website — a cleaner, faster, and more modern take on the beloved Indonesian meme-sharing platform. This version builds on Version 1 with more refined UI components, better responsiveness, and improved code structure.
